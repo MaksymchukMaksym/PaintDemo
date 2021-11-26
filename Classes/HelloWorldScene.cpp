@@ -17,7 +17,7 @@ Scene* HelloWorld::createScene()
 
 bool HelloWorld::init()
 {
-
+    //ÿ
     if ( !Scene::init() )
     {
         return false;
